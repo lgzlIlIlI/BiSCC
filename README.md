@@ -1,4 +1,4 @@
-# Weakly-Supervised Temporal Action Localization with Bidirectional Semantic Consistency Constraint
+# Weakly-Supervised Temporal Action Localization with Bidirectional Semantic Consistency Constraint (TNNLS2023)
 
 ## Requirements
 Python 3.8 and Pytorch 1.8.0 are used
